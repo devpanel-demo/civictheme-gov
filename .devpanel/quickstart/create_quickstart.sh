@@ -19,7 +19,6 @@ echo -e "-------------------------------"
 echo -e "| DevPanel Quickstart Creator |"
 echo -e "-------------------------------\n"
 
-
 # Preparing
 WORK_DIR=$APP_ROOT
 TMP_DIR=/tmp/devpanel/quickstart
